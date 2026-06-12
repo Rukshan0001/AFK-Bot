@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rukey01.aternos.me",
+    "ip": "Rukey01.aternos.me:46964",
     "port": 46964,
     "version": "",
     "try-creative": false
